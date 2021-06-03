@@ -128,6 +128,4 @@ redis:
   repository: redis
   tag: 6.2.1
   pullPolicy: IfNotPresent
-
   
-    
